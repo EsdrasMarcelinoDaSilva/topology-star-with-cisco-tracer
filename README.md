@@ -38,7 +38,7 @@ Para garantir a conectividade, foi realizado um teste de ping entre os dispositi
 
 🚀 **Passos para Reproduzir**
 
-1. Abra o arquivo `.pkt` no Cisco Packet Tracer.
+1. Abra o arquivo `.pkz` no Cisco Packet Tracer.
 2. Execute o comando `ping` entre os PCs para verificar a conectividade.
 
 🖼️ **Imagens**
@@ -49,7 +49,7 @@ Aqui está a topologia de rede criada:
 
 🛠️ **Como Testar**
 
-1. Abra o arquivo `.pkt` no Cisco Packet Tracer.
+1. Abra o arquivo `.pkz` no Cisco Packet Tracer.
 2. Utilize o Prompt de Comando em qualquer PC para executar:
 
    ```bash
