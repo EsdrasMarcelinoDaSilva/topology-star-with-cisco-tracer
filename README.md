@@ -1,7 +1,5 @@
 # topology-star-with-cisco-tracer
 
-# topology-star-with-cisco-tracer
-
 # Projeto de Simulação de Rede
 
 📌 **Estrutura do Projeto**
