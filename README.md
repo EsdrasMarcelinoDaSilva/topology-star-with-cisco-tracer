@@ -45,7 +45,7 @@ Para garantir a conectividade, foi realizado um teste de ping entre os dispositi
 
 Aqui está a topologia de rede criada:
 
-![Topologia de Rede](caminho/para/sua/imagem.png) <!-- Insira o caminho para sua imagem aqui -->
+![Topologia de Rede]('/img/topology-star.png') <!-- Insira o caminho para sua imagem aqui -->
 
 🛠️ **Como Testar**
 
