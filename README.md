@@ -1,78 +1,59 @@
 # topology-star-with-cisco-tracer
 
-Simulação de Rede Local (LAN)
+# topology-star-with-cisco-tracer
 
-Estrutura do Projeto
+# Projeto de Simulação de Rede
 
-Topologia de Rede
+📌 **Estrutura do Projeto**
+
+🔹 **Topologia de Rede**
 
 A topologia utilizada neste projeto é em estrela, composta por:
 
-1 switch
+🖧 1 switch
 
-4 PCs conectados
+💻 4 PCs conectados
 
-Configuração IP
+🔹 **Configuração IP**
 
-Todos os dispositivos estão configurados na sub-rede 192.168.1.0/24.
+Todos os dispositivos estão configurados na sub-rede `192.168.1.0/24`.
 
-Teste de Comunicação
+🔹 **Teste de Comunicação**
 
 Para garantir a conectividade, foi realizado um teste de ping entre os dispositivos.
 
-Tecnologias Utilizadas
+💻 **Tecnologias Utilizadas**
 
-Cisco Packet Tracer (versão utilizada: [insira sua versão aqui])
+- Cisco Packet Tracer (versão utilizada: [insira sua versão aqui])
+- Simulação de Rede Local (LAN)
 
-Simulação de Rede Local (LAN)
+⚙️ **Configuração**
 
-Configuração
+📌 **Endereços IP dos PCs**
 
-Endereços IP dos PCs
+| Dispositivo | Endereço IP                  |
+|-------------|------------------------------|
+| PC1         | 192.168.1.10 / 255.255.255.0 |
+| PC2         | 192.168.1.11 / 255.255.255.0 |
+| PC3         | 192.168.1.12 / 255.255.255.0 |
+| PC4         | 192.168.1.13 / 255.255.255.0 |
 
-Dispositivo
+🚀 **Passos para Reproduzir**
 
-Endereço IP
+1. Abra o arquivo `.pkt` no Cisco Packet Tracer.
+2. Execute o comando `ping` entre os PCs para verificar a conectividade.
 
-PC1
-
-192.168.1.10 / 255.255.255.0
-
-PC2
-
-192.168.1.11 / 255.255.255.0
-
-PC3
-
-192.168.1.12 / 255.255.255.0
-
-PC4
-
-192.168.1.13 / 255.255.255.0
-
-Passos para Reproduzir
-
-Abra o arquivo .pkt no Cisco Packet Tracer.
-
-Execute o comando ping entre os PCs para verificar a conectividade.
-
-Imagens
+🖼️ **Imagens**
 
 Aqui está a topologia de rede criada:
 
-(Insira a imagem aqui, com a topologia e os resultados dos testes de ping.)
+![Topologia de Rede](caminho/para/sua/imagem.png) <!-- Insira o caminho para sua imagem aqui -->
 
-Como Testar
+🛠️ **Como Testar**
 
-Abra o arquivo .pkt no Cisco Packet Tracer.
+1. Abra o arquivo `.pkt` no Cisco Packet Tracer.
+2. Utilize o Prompt de Comando em qualquer PC para executar:
 
-Utilize o Prompt de Comando em qualquer PC para executar:
-
-ping 192.168.1.xx
-
-Verifique se os outros PCs respondem corretamente.
-
-Contribuição
-
-Sinta-se à vontade para clonar este repositório, testar e sugerir melhorias! 🚀
-
+   ```bash
+   ping 192.168.1.xx
+Sinta-se à vontade para ajustar conforme necessário!
